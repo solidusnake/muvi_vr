@@ -377,7 +377,6 @@ GameObject:
   - component: {fileID: 1428781888}
   - component: {fileID: 1428781887}
   - component: {fileID: 1428781891}
-  - component: {fileID: 1428781892}
   m_Layer: 0
   m_Name: Screen
   m_TagString: Untagged
@@ -492,20 +491,6 @@ VideoPlayer:
   m_Looping: 0
   m_WaitForFirstFrame: 1
   m_FrameReadyEventEnabled: 0
---- !u!114 &1428781892
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1428781886}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08cf1768ff8cf411488bd8841876780e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enterText: {fileID: 0}
-  levelToLoad: Assets/Scenes/SampleScene.unity
 --- !u!1 &1516608824 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100394, guid: eda31affc1e8d4a3d9081cac63ef253f,
