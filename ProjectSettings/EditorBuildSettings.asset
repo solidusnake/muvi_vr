@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/muvi_vr.unity
+    path: Assets/Scenes/muvi_vr.unity
     guid: d0090af1dcb284f69993418f08275012
   m_configObjects: {}
